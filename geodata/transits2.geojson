@@ -12,7 +12,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "true",
         "name": "Hudson River 1"
       },
       "geometry": {
@@ -37,7 +36,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "true",
         "name": "Saint Johns River"
       },
       "geometry": {
@@ -66,7 +64,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "true",
         "name": "Fore River"
       },
       "geometry": {
@@ -99,7 +96,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "false",
         "name": "Neuse River"
       },
       "geometry": {
@@ -132,7 +128,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "false",
         "name": "Pamlica River"
       },
       "geometry": {
@@ -173,7 +168,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "false",
         "name": "James River"
       },
       "geometry": {
@@ -222,7 +216,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "true",
         "name": "Hudson River 2"
       },
       "geometry": {
@@ -263,7 +256,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "true",
         "name": "Cape Fear River"
       },
       "geometry": {
@@ -316,7 +308,6 @@
       "type": "Feature",
       "properties": {
         "line_type": "transit",
-        "spine": "false",
         "name": "Provincetown-Boston"
       },
       "geometry": {
