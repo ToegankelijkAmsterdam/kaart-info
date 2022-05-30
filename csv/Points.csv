@@ -1,0 +1,243 @@
+Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
+Amsterdam,https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.GbN78c-PrE-Gd4Ss_jxNHQAAAA%26pid%3DApi&f=1,,,24x24,"Amsterdam, Nederland",https://duckduckgo.com/i/dfe6539f.jpg,Amsterdam is de hoofdstad van Nederland. De gemeente Amsterdam is naar inwonertal de grootste gemeente en telt 905.234 inwoners. Bron: Wikipedia (NL),"Amsterdam, Netherlands",52.37403,4.88969
+Toilet,fa-restroom,green,white,,Openbaar toilet Koningsplein,,"<i style='color:green' <i class=""material-icons"">accessible</i>Rolstoeltoegankelijk. <br> Open: 24 uur per dag <br> Kosten: € 0.50",Koningsplein,52.3674372,4.8892087
+Toilet,fa-restroom,green,white,,Openbaar toilet Noorderpark,,"Rolstoeltoegankelijk.<br> Open: Alleen open als pierenbadje ook open is als het boven de 20 graden is en van mei tot en met september. <a href=""https://www.amsterdam.nl/sport/zwemmen/openbare/"" target=""_blank"">Meer informatie</a><br> Kosten: geen",Openbaar toilet bij het pierenbadje. Gerenoveerd in 2019,52.3903263,4.9226835
+Toilet,fa-restroom,green,white,,Openbaar toilet Leidseplein,,Rolstoeltoegankelijk. <br> Open: 24 uur per dag <br> Kosten: € 0.50,Leidseplein,52.3634935,4.8820227
+Toilet,fa-restroom,green,white,,Openbaar toilet Leidse Bosje,,Rolstoeltoegankelijk. <br> Open: 24 uur per dag <br> Kosten: € 0.50,Leidse Bosje,52.3625239,4.8813468
+Toilet,fa-restroom,green,white,,Openbaar toilet Sarphatipark,,Rolstoeltoegankelijk. <br> Open: 24 uur per dag <br> Kosten: € 0.50,Sarphatipark,52.3541595,4.8948603
+Toilet,fa-restroom,green,white,,Openbaar toilet GGD Amsterdam,,Rolstoeltoegankelijk.<br> Open: Maandag t/m donderdag 9:00 - 18:00 Vrijdag 09:00 - 18:00 <br> Kosten: geen,GGD Amsterdam,52.3624329,4.9085149
+Toilet,fa-restroom,green,white,,"Openbaar toilet Amsterdamse Bos, Boswinkel",,Rolstoeltoegankelijk.<br> Open: De Boswinkel is geopend op woensdag t/m zondag van 10:00 - 17:00. <br> Kosten: geen,,52.3274059,4.8549056
+Toilet,fa-restroom,green,white,,"Openbaar toilet Amsterdamse Bos, Klein kinderbad",,Rolstoeltoegankelijk.<br> Het Klein Kinderbad is vanaf mei tot en met september van 10:00 tot 19:00 uur gevuld met water bij een buitentemperatuur van boven de 20 graden en bij droog weer. Als het bad is gevuld zijn de toiletten ook open.,,52.3243402,4.8485826
+Toilet,fa-restroom,green,white,,"Openbaar toilet Amsterdamse Bos, Groot kinderbad",,Rolstoeltoegankelijk.<br> Het Groot Kinderbad is vanaf mei tot en met september van 10:00 tot 19:00 uur gevuld met water bij een buitentemperatuur van boven de 20 graden en bij droog weer. Als het bad is gevuld zijn de toiletten ook open.,,52.3166175,4.8221432
+Toilet,fa-restroom,green,white,,Openbaar toilet Sloterdijk,,Rolstoeltoegankelijk.<br> Open: 24 uur per dag <br> Kosten: geen,,52.3895766,4.8383892
+Tramhalte,tram,blue,white,,Tramhalte Nieuwezijds Kolk,https://lh5.googleusercontent.com/p/AF1QipNX2FZFoaLTnkYgyp7wSkAJRxIINmLV4lvqQpWQ=w408-h306-k-no,"Lijn 2 | 12 | 13 | 17<br><i style='color:red' <i class=""material-icons"">not_accessible blind</i>",Nieuwezijds Kolk,52.376071,4.893344
+Tramhalte,tram,blue,white,,Tramhalte Surinameplein / Curaçaostraat,,Lijn 1 | 17,Surinameplein / Curaçaostraat,52.358384,4.853117
+Tramhalte,tram,blue,white,,Tramhalte Johan Huizingalaan,,Lijn 1 | 17,Johan Huizingalaan,52.357816,4.827325
+Tramhalte,tram,blue,white,,Tramhalte Prinsengracht,,"Lijn 2 | 12 <br><i class=""material-icons"">accessible</i><i class=""material-icons"">blind</i>",Prinsengracht,52.365024,4.884466
+Tramhalte,tram,blue,white,,Tramhalte Keizergracht,,Lijn 2 | 12,Keizergracht,52.365963,4.886446
+Tramhalte,tram,blue,white,,Tramhalte Koningsplein,,Lijn 2 | 12,Koningsplein,52.3678894,4.8891545
+Tramhalte,tram,blue,white,,Tramhalte Matterhorn,,Lijn 1,Matterhorn,52.353745,4.774775
+Tramhalte,tram,blue,white,,Tramhalte Pilatus,,Lijn 1,Pilatus,52.352917,4.776846
+Tramhalte,tram,blue,white,,Tramhalte Inarisstraat,,Lijn 1,Inarisstraat,52.350338,4.783287
+Tramhalte,tram,blue,white,,Tramhalte Baden Powellweg,,Lijn 1,Baden Powellweg,52.350985,4.794747
+Tramhalte,tram,blue,white,,Tramhalte Hoekenes,,Lijn 1,Hoekenes,52.352505,4.802256
+Tramhalte,tram,blue,white,,Tramhalte Louis Davidsstraat,,Lijn 1,Louis Davidsstraat,52.353897,4.808843
+Tramhalte,tram,blue,white,,Tramhalte Eerste Constantijn Huygensstraat / Overtoom,,Lijn 1 | 3,Eerste Constantijn Huygensstraat / Overtoom,52.362752,4.875287
+Tramhalte,tram,blue,white,,Tramhalte Rhijnvis Feithstraat,,Lijn 1,Rhijnvis Feithstraat,52.358968,4.860096
+Tramhalte,tram,blue,white,,Tramhalte Kruislaan,,Lijn 19,Kruislaan,52.347758,4.94019
+Tramhalte,tram,blue,white,,Tramhalte Brinkstraat,,Lijn 19,Brinkstraat,52.343074,4.947649
+Tramhalte,tram,blue,white,,Tramhalte Arent Krijtstraat,,Lijn 19,Arent Krijtstraat,52.33961,4.954533
+Tramhalte,tram,blue,white,,Tramhalte Diemerbrug,,Lijn 19,Diemerbrug,52.3382985,4.9612609
+Tramhalte,tram,blue,white,,Tramhalte Diemen Sniep,,Lijn 19,Diemen Sniep,52.336763,4.969577
+Tramhalte,tram,blue,white,,Tramhalte Dapperstraat,,Lijn 1 | 3,Dapperstraat,52.361019,4.929368
+Tramhalte,tram,blue,white,,Tramhalte Meer en Vaart,,Lijn 1 | 17,Meer en Vaart,52.356401,4.810137
+Tramhalte,tram,blue,white,,Tramhalte Derkinderenstraat,,Lijn 1 | 17,Derkinderenstraat,52.357957,4.840032
+Tramhalte,tram,blue,white,,Tramhalte Corantijnstraat,,Lijn 17,Corantijnstraat,52.361472,4.853279
+Tramhalte,tram,blue,white,,Tramhalte Postjesweg / Hoofdweg,,Lijn 7 | 17,Postjesweg / Hoofdweg,52.364245,4.8534365
+Tramhalte,tram,blue,white,,Tramhalte Ten Katestraat,,Lijn 7 | 17,Ten Katestraat,52.365975,4.867544
+Tramhalte,tram,blue,white,,Tramhalte Kinkerstraat / Bilderdijkstraat,,Lijn 3 | 7 | 17,Kinkerstraat / Bilderdijkstraat,52.367246,4.872164
+Tramhalte,tram,blue,white,,Tramhalte Leidseplein,,Lijn 1 | 2 | 5 | 7 | 12 | 19,Leidseplein,52.363775,4.882348
+Tramhalte,tram,blue,white,,Tramhalte Ecuplein,,Lijn 1,Ecuplein,52.349776,4.788597
+Tramhalte,tram,blue,white,,Tramhalte J.P. Heijestraat,,Lijn 1,J.P. Heijestraat,52.360454,4.866245
+Tramhalte,tram,blue,white,,Tramhalte Van Hallstraat,,Lijn 3,Van Hallstraat,52.384237,4.869865
+Tramhalte,tram,blue,white,,Tramhalte Nieuwe Willemsstraat,,Lijn 5,Nieuwe Willemsstraat,52.381498,4.881058
+Tramhalte,tram,blue,white,,Tramhalte Azartplein,,Lijn 7,Azartplein,52.376743,4.937331
+Tramhalte,tram,blue,white,,Tramhalte Plein `40-`45,,Lijn 7,Plein `40-`45,52.381325,4.821459
+Tramhalte,tram,blue,white,,Tramhalte Van Limburg Stirumstraat,,Lijn 3,Van Limburg Stirumstraat,52.384362,4.875041
+Tramhalte,tram,blue,white,,Tramhalte Eerste Coehoornstraat,,Lijn 7,Eerste Coehoornstraat,52.368273,4.926459
+Tramhalte,tram,blue,white,,Tramhalte C. van Eesterenlaan,,Lijn 7,C. van Eesterenlaan,52.373506,4.938455
+Tramhalte,tram,blue,white,,Tramhalte K. `s-Gravesandestraat,,Lijn 1 | 7 | 19,K. `s-Gravesandestraat,52.362487,4.91432
+Tramhalte,tram,blue,white,,Tramhalte Vijzelgracht /Weteringcircuit,,Lijn 1 | 7 | 19 | 24 | 52,Vijzelgracht /Weteringcircuit,52.359632,4.890943
+Tramhalte,tram,blue,white,,Tramhalte Spiegelgracht,,Lijn 1 | 7 | 19,Spiegelgracht,52.360889,4.887257
+Tramhalte,tram,blue,white,,Tramhalte Haarlemmerplein,,Lijn _,Haarlemmerplein,52.385044,4.883588
+Tramhalte,tram,blue,white,,Tramhalte De Wittenkade,,Lijn 3,De Wittenkade,52.383185,4.877048
+Tramhalte,tram,blue,white,,Tramhalte Nassaukade,,Lijn 3,Nassaukade,52.38114,4.879189
+Tramhalte,tram,blue,white,,Tramhalte Alexanderplein,,Lijn 7 | 14 | 19,Alexanderplein,52.363606,4.918929
+Tramhalte,tram,blue,white,,Tramhalte Hoogte Kadijk,,Lijn 7,Hoogte Kadijk,52.366772,4.924559
+Tramhalte,tram,blue,white,,Tramhalte Eerste Leeghwaterstraat,,Lijn 7,Eerste Leeghwaterstraat,52.370258,4.929691
+Tramhalte,tram,blue,white,,Tramhalte Rietlandpark,,Lijn 7 | 26,Rietlandpark,52.372899,4.934361
+Tramhalte,tram,blue,white,,Tramhalte Willem de Zwijerlaan,,Lijn 13 | 19,Willem de Zwijerlaan,52.370537,4.863925
+Tramhalte,tram,blue,white,,Tramhalte De Pijp,,Lijn 3 | 12 | 24 | 52,De Pijp,52.35279,4.891107
+Tramhalte,tram,blue,white,,Tramhalte Wiltzanghlaan,,Lijn 19,Wiltzanghlaan,52.382574,4.851309
+Tramhalte,tram,blue,white,,Tramhalte Molenwerf,,Lijn 19,Molenwerf,52.385888,4.846416
+Tramhalte,tram,blue,white,,Tramhalte Scheldestraat,,Lijn 12,Scheldestraat,52.347345,4.891162
+Tramhalte,tram,blue,white,,Tramhalte Europaplein,,Lijn 4 | 52,Europaplein,52.340218,4.891987
+Tramhalte,tram,blue,white,,Tramhalte Waalstraat,,Lijn 4,Waalstraat,52.344529,4.900811
+Tramhalte,tram,blue,white,,Tramhalte Maasstraat,,Lijn 4,Maasstraat,52.342999,4.89659
+Tramhalte,tram,blue,white,,Tramhalte Dintelstraat,,Lijn 4,Dintelstraat,52.34191,4.89304
+Tramhalte,tram,blue,white,,Tramhalte Amstelveen Stadshart,,Lijn 5,Amstelveen Stadshart,52.301255,4.867279
+Tramhalte,tram,blue,white,,Tramhalte Marco Polostraat,,Lijn 13,Marco Polostraat,52.37092,4.85536
+Tramhalte,tram,blue,white,,Tramhalte Jan van Galenstraat,,Lijn 19,Jan van Galenstraat,52.37469,4.85856
+Tramhalte,tram,blue,white,,Tramhalte Rozengracht / Marnixstraat,,Lijn 5 | 13 | 17 | 19,Rozengracht / Marnixstraat,52.37218,4.875884
+Tramhalte,tram,blue,white,,Tramhalte Roelof Hartplein,,Lijn 3 | 5 | 12 | 24,Roelof Hartplein,52.352858,4.882355
+Tramhalte,tram,blue,white,,Tramhalte Bos en Lommerweg,,Lijn 19,Bos en Lommerweg,52.380563,4.854869
+Tramhalte,tram,blue,white,,Tramhalte Maasstraat,,Lijn 12,Maasstraat,52.346939,4.895126
+Tramhalte,tram,blue,white,,Tramhalte Waalstraat,,Lijn 12,Waalstraat,52.346697,4.899972
+Tramhalte,tram,blue,white,,Tramhalte Cornelis Troostplein,,Lijn 12,Cornelis Troostplein,52.350197,4.891543
+Tramhalte,tram,blue,white,,Tramhalte Dam / Paleisstraat,,Lijn 2 | 12 | 13 | 17,Dam / Paleisstraat,52.373161,4.890512
+Tramhalte,tram,blue,white,,Tramhalte Burg. Van Leeuwenlaan,,Lijn 13,Burg. Van Leeuwenlaan,52.376429,4.812448
+Tramhalte,tram,blue,white,,Tramhalte Burg. Fockstraat,,Lijn 7,Burg. Fockstraat,52.379721,4.832243
+Tramhalte,tram,blue,white,,Tramhalte Burg.Eliasstraat,,Lijn 7,Burg.Eliasstraat,52.380571,4.826824
+Tramhalte,tram,blue,white,,Tramhalte Burg. Rendorpstraat,,Lijn 13,Burg. Rendorpstraat,52.374411,4.827313
+Tramhalte,tram,blue,white,,Tramhalte Admiraal Helfrichstraat,,Lijn 13,Admiraal Helfrichstraat,52.369434,4.844117
+Tramhalte,tram,blue,white,,Tramhalte Dr. H. Colijnstraat,,Lijn 13,Dr. H. Colijnstraat,52.376945,4.806463
+Tramhalte,tram,blue,white,,Tramhalte Lambertus Zijlplein,,Lijn 13,Lambertus Zijlplein,52.377261,4.803269
+Tramhalte,tram,blue,white,,Tramhalte Mercatorplein,,Lijn 7 | 13,Mercatorplein,52.370039,4.850261
+Tramhalte,tram,blue,white,,Tramhalte Jan Voermanstraat,,Lijn 13,Jan Voermanstraat,52.369648,4.838204
+Tramhalte,tram,blue,white,,Tramhalte Sloterpark,,Lijn 7,Sloterpark,52.372849,4.818873
+Tramhalte,tram,blue,white,,Tramhalte Rembrandtplein,,Lijn 4 | 14,Rembrandtplein,52.366244,4.896573
+Tramhalte,tram,blue,white,,Tramhalte Artis,,Lijn 14,Artis,52.366628,4.91117
+Tramhalte,tram,blue,white,,Tramhalte Burg. Röellstraat / Slotermerlaan,,Lijn 7 | 13,Burg. Röellstraat / Slotermerlaan,52.375695,4.81902
+Tramhalte,tram,blue,white,,Tramhalte Flevopark,,Lijn 3 | 14,Flevopark,52.365172,4.951398
+Tramhalte,tram,blue,white,,Tramhalte Mr. Visserplein,,Lijn 14,Mr. Visserplein,52.367822,4.905698
+Tramhalte,tram,blue,white,,Tramhalte Eerste Van Swindenstraat,,Lijn 19,Eerste Van Swindenstraat,52.361919,4.92398
+Tramhalte,tram,blue,white,,Tramhalte Linnaeusstraat / Wijttenbachstraat,,Lijn 1 | 3 | 19,Linnaeusstraat / Wijttenbachstraat,52.360018,4.925295
+Tramhalte,tram,blue,white,,Tramhalte Insulindeweg,,Lijn 3 | 14,Insulindeweg,52.364873,4.947752
+Tramhalte,tram,blue,white,,Tramhalte Jan Tooropstraat,,Lijn 13,Jan Tooropstraat,52.371488,4.838105
+Tramhalte,tram,blue,white,,Tramhalte Bos en Lommerplein,,Lijn 7,Bos en Lommerplein,52.377877,4.845748
+Tramhalte,tram,blue,white,,Tramhalte Soembawastraat,,Lijn 3 | 14,Soembawastraat,52.362213,4.943723
+Tramhalte,tram,blue,white,,Tramhalte Molukkenstraat,,Lijn 3 | 14,Molukkenstraat,52.361697,4.940094
+Tramhalte,tram,blue,white,,Tramhalte Hogeweg,,Lijn 19,Hogeweg,52.353489,4.930963
+Tramhalte,tram,blue,white,,Tramhalte Hugo de Vrieslaan,,Lijn 19,Hugo de Vrieslaan,52.350859,4.935164
+Tramhalte,tram,blue,white,,Tramhalte Pontanusstraat,,Lijn 14,Pontanusstraat,52.365925,4.927672
+Tramhalte,tram,blue,white,,Tramhalte Zeeburgerdijk,,Lijn 14,Zeeburgerdijk,52.365812,4.932676
+Tramhalte,tram,blue,white,,Tramhalte Javaplein,,Lijn 14,Javaplein,52.364327,4.937667
+Tramhalte,tram,blue,white,,Tramhalte Dam,,Lijn 4 | 14 | 24,Dam,52.373816,4.894051
+Tramhalte,tram,blue,white,,Tramhalte Rokin,,Lijn 4 | 14 | 24 | 52,Rokin,52.3698,4.892378
+Tramhalte,tram,blue,white,,Tramhalte Marie Heinekenplein,,Lijn 24,Marie Heinekenplein,52.357072,4.890701
+Tramhalte,tram,blue,white,,Tramhalte IJsbaanpad,,Lijn 24,IJsbaanpad,52.341126,4.857697
+Tramhalte,tram,blue,white,,Tramhalte Museumplein,,Lijn 3 | 5 | 12,Museumplein,52.356547,4.879725
+Tramhalte,tram,blue,white,,Tramhalte Dijkgraafplein,,Lijn 17,Dijkgraafplein,52.355548,4.786911
+Tramhalte,tram,blue,white,,Tramhalte Baden Powellweg,,Lijn 17,Baden Powellweg,52.356492,4.791584
+Tramhalte,tram,blue,white,,Tramhalte Hoekenes,,Lijn 17,Hoekenes,52.358004,4.799095
+Tramhalte,tram,blue,white,,Tramhalte Osdorpplein West,,Lijn 17,Osdorpplein West,52.359418,4.803203
+Tramhalte,tram,blue,white,,Tramhalte Osdorpplein Oost,,Lijn 17,Osdorpplein Oost,52.359622,4.807557
+Tramhalte,tram,blue,white,,Tramhalte Elandsgracht,,Lijn 5 | 7 | 17 | 19,Elandsgracht,52.368807,4.877952
+Tramhalte,tram,blue,white,,Tramhalte De Clercqstraat / Bilderdijkstraat,,Lijn 3 | 13 | 19,De Clercqstraat / Bilderdijkstraat,52.370886,4.870333
+Tramhalte,tram,blue,white,,Tramhalte Amstelveenseweg,,Lijn 2,Amstelveenseweg,52.35151,4.856596
+Tramhalte,tram,blue,white,,Tramhalte Westlandgracht,,Lijn 2,Westlandgracht,52.351584,4.845329
+Tramhalte,tram,blue,white,,Tramhalte Laan van Vlaanderen,,Lijn 2,Laan van Vlaanderen,52.346463,4.816059
+Tramhalte,tram,blue,white,,Tramhalte Centrum Nieuw Sloten,,Lijn 2,Centrum Nieuw Sloten,52.34636,4.81092
+Tramhalte,tram,blue,white,,Tramhalte Oudenaardeplantsoen,,Lijn 2,Oudenaardeplantsoen,52.344996,4.803954
+Tramhalte,tram,blue,white,,Tramhalte Cornelis Schuytstraat,,Lijn 2,Cornelis Schuytstraat,52.356018,4.8707
+Tramhalte,tram,blue,white,,Tramhalte Valeriusplein,,Lijn 2,Valeriusplein,52.353226,4.863504
+Tramhalte,tram,blue,white,,Tramhalte Delflandlaan,,Lijn 2,Delflandlaan,52.351551,4.840877
+Tramhalte,tram,blue,white,,Tramhalte Louwesweg,,Lijn 2,Louwesweg,52.346694,4.824626
+Tramhalte,tram,blue,white,,Tramhalte Johan Huizingalaan,,Lijn 2,Johan Huizingalaan,52.349164,4.827477
+Tramhalte,tram,blue,white,,Tramhalte Hoofddorpplein,,Lijn 2,Hoofddorpplein,52.351309,4.849935
+Tramhalte,tram,blue,white,,Tramhalte Van Baerlestraat,,Lijn 2 | 3 | 5 | 12,Van Baerlestraat,52.358149,4.878563
+Tramhalte,tram,blue,white,,Tramhalte Prinses Irenestraat,,Lijn 5,Prinses Irenestraat,52.342904,4.876771
+Tramhalte,tram,blue,white,,Tramhalte Stadionweg / Beethovenstraat,,Lijn 5 | 24,Stadionweg / Beethovenstraat,52.347097,4.876902
+Tramhalte,tram,blue,white,,Tramhalte Minervaplein,,Lijn 24,Minervaplein,52.346736,4.872528
+Tramhalte,tram,blue,white,,Tramhalte IJburg,,Lijn 26,IJburg,52.35095,5.004301
+Tramhalte,tram,blue,white,,Tramhalte Oostpoort,,Lijn 19,Oostpoort,52.357213,4.927077
+Tramhalte,tram,blue,white,,Tramhalte Muziekgebouw Bimhuis,,Lijn 26,Muziekgebouw Bimhuis,52.377247,4.913021
+Tramhalte,tram,blue,white,,Tramhalte Kattenburgerstraat,,Lijn 26,Kattenburgerstraat,52.376122,4.921578
+Tramhalte,tram,blue,white,,Tramhalte Zuiderzeeweg,,Lijn 26,Zuiderzeeweg,52.372026,4.96151
+Tramhalte,tram,blue,white,,Tramhalte Steigereiland,,Lijn 26,Steigereiland,52.362993,4.980435
+Tramhalte,tram,blue,white,,Tramhalte Vennepluimstraat,,Lijn 26,Vennepluimstraat,52.357584,4.990809
+Tramhalte,tram,blue,white,,Tramhalte Diemerparklaan,,Lijn 26,Diemerparklaan,52.355237,4.995222
+Tramhalte,tram,blue,white,,Tramhalte Lumièrestraat,,Lijn 26,Lumièrestraat,52.352886,4.99964
+Tramhalte,tram,blue,white,,Tramhalte Zoutkeetsgracht,,Lijn _,Zoutkeetsgracht,52.388067,4.885239
+Tramhalte,tram,blue,white,,Tramhalte Beukenweg,,Lijn 1 | 3,Beukenweg,52.358589,4.91704
+Tramhalte,tram,blue,white,,Tramhalte Marnixplein,,Lijn 5,Marnixplein,52.377477,4.8784651
+Tramhalte,tram,blue,white,,Tramhalte Victorieplein,,Lijn 4 | 12,Victorieplein,52.346245,4.904905
+Tramhalte,tram,blue,white,,Tramhalte Wibautstraat,,Lijn 3,Wibautstraat,52.357323,4.909558
+Tramhalte,tram,blue,white,,Tramhalte Lutmastraat,,Lijn 4,Lutmastraat,52.351688,4.903209
+Tramhalte,tram,blue,white,,Tramhalte Amsteldijk,,Lijn 12,Amsteldijk,52.347096,4.910978
+Tramhalte,tram,blue,white,,Tramhalte Muiderpoortstation,,Lijn 1 | 3,Muiderpoortstation,52.360938,4.932956
+Tramhalte,tram,blue,white,,Tramhalte Fredrik Hendrikplantsoen,,Lijn 3,Fredrik Hendrikplantsoen,52.378542,4.875341
+Tramhalte,tram,blue,white,,Tramhalte Amstelkade,,Lijn 4,Amstelkade,52.349068,4.904193
+Tramhalte,tram,blue,white,,Tramhalte Camperstraat,,Lijn 3,Camperstraat,52.358356,4.913602
+Tramhalte,tram,blue,white,,Tramhalte Van Woustraat / Ceintuurbaan,,Lijn 3 | 4,Van Woustraat / Ceintuurbaan,52.354823,4.901243
+Tramhalte,tram,blue,white,,Tramhalte Tweede Van der Helststraat,,Lijn 3,Tweede Van der Helststraat,52.353255,4.894581
+Tramhalte,tram,blue,white,,Tramhalte Keizersgracht,,Lijn 4,Keizersgracht,52.363839,4.898296
+Tramhalte,tram,blue,white,,Tramhalte Prinsengracht,,Lijn 4,Prinsengracht,52.362122,4.898983
+Tramhalte,tram,blue,white,,Tramhalte Frederiksplein / Stadhouderskade,,Lijn 1 | 4 | 7 | 19,Frederiksplein / Stadhouderskade,52.359524,4.898756
+Tramhalte,tram,blue,white,,Tramhalte A.J. Ernststraat,,Lijn 5 | 25,A.J. Ernststraat,52.33143,4.868837
+Tramhalte,tram,blue,white,,Tramhalte Parnassusweg,,Lijn 5 | 25,Parnassusweg,52.338103,4.868696
+Tramhalte,tram,blue,white,,Tramhalte Uilenstede,,Lijn 5 | 25,Uilenstede,52.321631,4.869149
+Tramhalte,tram,blue,white,,Tramhalte Olympisch Stadion,,Lijn 24,Olympisch Stadion,52.343958,4.856892
+Tramhalte,tram,blue,white,,Tramhalte Zonnestein,,Lijn 5 | 25,Zonnestein,52.312372,4.872228
+Tramhalte,tram,blue,white,,Tramhalte Onderuit,,Lijn 5 | 25,Onderuit,52.308284,4.872508
+Tramhalte,tram,blue,white,,Tramhalte De Boelelaan/VU,,Lijn 24,De Boelelaan/VU,52.3349118,4.8683844
+Tramhalte,tram,blue,white,,Tramhalte Van Boshuizenstraat,,Lijn 5 | 25,Van Boshuizenstraat,52.325405,4.868966
+Tramhalte,tram,blue,white,,Tramhalte Olympiaweg,,Lijn 24,Olympiaweg,52.345272,4.858524
+Tramhalte,tram,blue,white,,Tramhalte Olympiaplein,,Lijn 24,Olympiaplein,52.34634,4.866257
+Tramhalte,tram,blue,white,,Tramhalte Gerrit van der Veenstraat,,Lijn 5 | 24,Gerrit van der Veenstraat,52.349099,4.877276
+Tramhalte,tram,blue,white,,Tramhalte Witte de Withstraat,,Lijn 7 | 17,Witte de Withstraat,52.364725,4.859676
+Tramhalte,tram,blue,white,,Tramhalte Willem Schoutenstraat,,Lijn 7,Willem Schoutenstraat,52.367174,4.852482
+Tramhalte,tram,blue,white,,Tramhalte Admiraal De Ruijterweg,,Lijn 13 | 19,Admiraal De Ruijterweg,52.371499,4.859967
+Tramhalte,tram,blue,white,,Tramhalte J.P. Heijestraat,,Lijn 7 | 17,J.P. Heijestraat,52.364811,4.862701
+Tramhalte,tram,blue,white,,Tramhalte Station Zuid,,Lijn 5 | 25 | 50 | 51 | 52,Station Zuid,52.340165,4.873144
+Tramhalte,tram,blue,white,,Tramhalte Station Lelylaan,,Lijn 1 | 17 | 50 | 51,Station Lelylaan,52.357894,4.834373
+Tramhalte,tram,blue,white,,Tramhalte Station Sloterdijjk,,Lijn 19 | 50 | 51,Station Sloterdijjk,52.388603,4.838885
+Tramhalte,tram,blue,white,,Tramhalte Jan van Galenstraat,,Lijn 13 | 50 | 51,Jan van Galenstraat,52.373127,4.835498
+Tramhalte,tram,blue,white,,Tramhalte Burg. De Vlugtlaan,,Lijn 7 | 50 | 51,Burg. De Vlugtlaan,52.378837,4.83788
+Tramhalte,tram,blue,white,,Tramhalte Heemstedestraat,,Lijn 2 | 50 | 51,Heemstedestraat,52.351505,4.834334
+Tramhalte,tram,blue,white,,Tramhalte Amstelveenseweg,,Lijn 24 | 50 | 51,Amstelveenseweg,52.338394,4.857271
+Tramhalte,tram,blue,white,,Tramhalte Station RAI,,Lijn 4 | 50 | 51,Station RAI,52.337006,4.890724
+Tramhalte,tram,blue,white,,Tramhalte Centraal Station,,Lijn 2 | 4 | 12 | 13 | 14 | 17 | 24 | 26 | 51 | 52 | 53 | 54,Centraal Station,52.378027,4.899773
+Tramhalte,tram,blue,white,,Tramhalte Waterlooplein,,Lijn 14 | 51 | 53 | 54,Waterlooplein,52.367349,4.902401
+Tramhalte,tram,blue,white,,Tramhalte Weesperplein,,Lijn 1 | 7 | 19 | 51 | 53 | 54,Weesperplein,52.361173,4.907978
+Tramhalte,tram,blue,white,,Tramhalte Amstelstation,,Lijn 12 | 51 | 53 | 54,Amstelstation,52.346663,4.918297
+Tramhalte,tram,blue,white,,Tramhalte Bob Haarmslaan,,Lijn 26,Bob Haarmslaan,52.368939,4.968961
+Tramhalte,tram,blue,white,,Tramhalte Westermarkt,,Lijn 13 | 17,Westermarkt,52.374035,4.884106
+Tramhalte,tram,blue,white,,Tramhalte Rijksmuseum,,Lijn 2 | 5 | 12,Rijksmuseum,52.3598176,4.8835384
+Tramhalte,tram,blue,white,,Tramhalte Hugo de Grootplein,,Lijn 3,Hugo de Grootplein,52.3746846,4.8727694
+Tramhalte,tram,blue,white,,Tramhalte Drenthepark,,Lijn 4,Drenthepark,52.3361529,4.8893095
+Tramhalte,tram,blue,white,,Tramhalte Bloemgracht,,Lijn 5,Bloemgracht,52.3743398,4.8764506
+Tramhalte,tram,blue,white,,Tramhalte Jan van Galenstraat,,Lijn 7,Jan van Galenstraat,52.3719979,4.8492708
+Tramhalte,tram,blue,white,,Tramhalte De Rijpstraat,,Lijn 19,De Rijpstraat,52.3771294,4.8578315
+Tramhalte,tram,blue,white,,Tramhalte VUmc,,Lijn 24,VUmc,52.3351784,4.8598291
+Tramhalte,tram,blue,white,,Tramhalte Muntplein,,Lijn 24,Muntplein,52.366371,4.8931841
+Tramhalte,tram,blue,white,,Tramhalte Kronenburg,,Lijn 5 | 25,Kronenburg,52.3164517,4.8703396
+Tramhalte,tram,blue,white,,Tramhalte Oranjebaan,,Lijn 5 | 25,Oranjebaan,52.3029039,4.8717813
+Tramhalte,tram,blue,white,,Tramhalte Eerste Marnixdwarsstraat,,Lijn 5,Eerste Marnixdwarsstraat,52.3830358,4.8820335
+Tramhalte,tram,blue,white,,Tramhalte Plantage Lepellaan,,Lijn 14,Plantage Lepellaan,52.3651306,4.9154802
+Tramhalte,tram,blue,white,,Tramhalte Ouderkerkslaan,,Lijn 25,Ouderkerkslaan,52.2965852,4.8677556
+Tramhalte,tram,blue,white,,Tramhalte Sportlaan,,Lijn 25,Sportlaan,52.2901479,4.8636541
+Tramhalte,tram,blue,white,,Tramhalte Meent,,Lijn 25,Meent,52.2810117,4.8571498
+Tramhalte,tram,blue,white,,Tramhalte Brink,,Lijn 25,Brink,52.2805421,4.8518489
+Tramhalte,tram,blue,white,,Tramhalte Poortwachter,,Lijn 25,Poortwachter,52.2832311,4.8454439
+Tramhalte,tram,blue,white,,Tramhalte Sacharovlaan,,Lijn 25,Sacharovlaan,52.2822746,4.8324823
+Tramhalte,tram,blue,white,,Tramhalte Westwijk,,Lijn 25,Westwijk,52.2745937,4.8307936
+Metrostation,subway,blue,white,,metrostation Station Zuid,,Lijn 5 | 25 | 50 | 51 | 52,Station Zuid,52.340165,4.873144
+Metrostation,subway,blue,white,,metrostation Station Lelylaan,,Lijn 1 | 17 | 50 | 51,Station Lelylaan,52.357894,4.834373
+Metrostation,subway,blue,white,,metrostation Isolatorweg,,Lijn 50 | 51,Isolatorweg,52.395182,4.85083
+Metrostation,subway,blue,white,,metrostation Gein,,Lijn 50 | 54,Gein,52.296347,4.989227
+Metrostation,subway,blue,white,,metrostation Overamstel,,Lijn 50 | 51,Overamstel,52.331754,4.917802
+Metrostation,subway,blue,white,,metrostation Reigersbos,,Lijn 50 | 54,Reigersbos,52.295619,4.974164
+Metrostation,subway,blue,white,,metrostation Station Sloterdijk,,Lijn 19 | 50 | 51,Station Sloterdijk,52.388603,4.838885
+Metrostation,subway,blue,white,,metrostation Jan van Galenstraat,,Lijn 13 | 50 | 51,Jan van Galenstraat,52.373127,4.835498
+Metrostation,subway,blue,white,,metrostation Burg. De Vlugtlaan,,Lijn 7 | 50 | 51,Burg. De Vlugtlaan,52.378837,4.83788
+Metrostation,subway,blue,white,,metrostation Henk Sneevlietweg,,Lijn 50 | 51,Henk Sneevlietweg,52.346543,4.834481
+Metrostation,subway,blue,white,,metrostation Heemstedestraat,,Lijn 2 | 50 | 51,Heemstedestraat,52.351505,4.834334
+Metrostation,subway,blue,white,,metrostation Postjesweg,,Lijn 50 | 51,Postjesweg,52.364866,4.833949
+Metrostation,subway,blue,white,,metrostation Amstelveenseweg,,Lijn 24 | 50 | 51,Amstelveenseweg,52.338394,4.857271
+Metrostation,subway,blue,white,,metrostation Station RAI,,Lijn 4 | 50 | 51,Station RAI,52.337006,4.890724
+Metrostation,subway,blue,white,,metrostation Strandvliet,,Lijn 50 | 54,Strandvliet,52.318424,4.941468
+Metrostation,subway,blue,white,,metrostation Station Bijlmer ArenA,,Lijn 50 | 54,Station Bijlmer ArenA,52.312132,4.947191
+Metrostation,subway,blue,white,,metrostation Bullewijk,,Lijn 50 | 54,Bullewijk,52.3068,4.952102
+Metrostation,subway,blue,white,,metrostation Station Holendrecht,,Lijn 50 | 54,Station Holendrecht,52.298182,4.95998
+Metrostation,subway,blue,white,,metrostation Station Duivendrecht,,Lijn 50 | 54,Station Duivendrecht,52.323607,4.936487
+Metrostation,subway,blue,white,,metrostation Spaklerweg,,Lijn 51 | 53 | 54,Spaklerweg,52.340042,4.920966
+Metrostation,subway,blue,white,,metrostation Centraal Station,,Lijn 2 | 4 | 12 | 13 | 14 | 17 | 24 | 26 | 51 | 52 | 53 | 54,Centraal Station,52.378027,4.899773
+Metrostation,subway,blue,white,,metrostation Waterlooplein,,Lijn 14 | 51 | 53 | 54,Waterlooplein,52.367349,4.902401
+Metrostation,subway,blue,white,,metrostation Weesperplein,,Lijn 1 | 7 | 19 | 51 | 53 | 54,Weesperplein,52.361173,4.907978
+Metrostation,subway,blue,white,,metrostation Wibautstraat,,Lijn 51 | 53 | 54,Wibautstraat,52.354333,4.912123
+Metrostation,subway,blue,white,,metrostation Nieuwmarkt,,Lijn 51 | 53 | 54,Nieuwmarkt,52.37192,4.901301
+Metrostation,subway,blue,white,,metrostation Amstelstation,,Lijn 12 | 51 | 53 | 54,Amstelstation,52.346663,4.918297
+Metrostation,subway,blue,white,,metrostation Van der Madeweg,,Lijn 50 | 53 | 54,Van der Madeweg,52.329678,4.9303
+Metrostation,subway,blue,white,,metrostation Verrijn Stuartweg,,Lijn 53,Verrijn Stuartweg,52.328624,4.966759
+Metrostation,subway,blue,white,,metrostation Station Ganzenhoef,,Lijn 53,Station Ganzenhoef,52.323631,4.973044
+Metrostation,subway,blue,white,,metrostation Kraaiennest station,,Lijn 53,Kraaiennest station,52.316618,4.979454
+Metrostation,subway,blue,white,,metrostation Gaasperplas,,Lijn 53,Gaasperplas,52.311035,4.984549
+Metrostation,subway,blue,white,,metrostation Venserpolder,,Lijn 53,Venserpolder,52.326737,4.946229
+Metrostation,subway,blue,white,,metrostation Station Diemen-Zuid,,Lijn 53,Station Diemen-Zuid,52.33027,4.956447
+Metrostation,subway,blue,white,,metrostation Europaplein,,Lijn 4 | 52,Europaplein,52.340218,4.891987
+Metrostation,subway,blue,white,,metrostation Noorderpark,,Lijn 52,Noorderpark,52.388902,4.918652
+Metrostation,subway,blue,white,,metrostation Noord,,Lijn 52,Noord,52.401877,4.932229
+Metrostation,subway,blue,white,,metrostation Rokin,,Lijn 4 | 14 | 24 | 52,Rokin,52.3698,4.892378
+Metrostation,subway,blue,white,,metrostation Vijzelgracht,,Lijn 1 | 7 | 19 | 24 | 52,Vijzelgracht,52.359632,4.890943
+Metrostation,subway,blue,white,,metrostation De Pijp,,Lijn 3 | 12 | 24 | 52,De Pijp,52.35279,4.891107
