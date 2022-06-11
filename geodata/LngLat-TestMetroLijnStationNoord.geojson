@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "metro": 52
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.918656349182129,
+            52.38895867998249
+          ],
+          [
+            4.921274185180664,
+            52.390896781909554
+          ],
+          [
+            4.924578666687011,
+            52.395663103006484
+          ],
+          [
+            4.926509857177734,
+            52.397469980285386
+          ],
+          [
+            4.9305009841918945,
+            52.40069075194814
+          ],
+          [
+            4.932947158813477,
+            52.402287958007705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "metrostation": "Noord",
+        "metro": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9323570728302,
+          52.402039216602866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "metrostation": "Noorderpark",
+        "metro": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.918699264526367,
+          52.38895867998249
+        ]
+      }
+    }
+  ]
+}
