@@ -1,13 +1,14 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
+# Toegankelijk Amsterdam - Kaart (AccessibleAmsterdam - map information)
+This is a map with information about accessibility in Amsterdam. In our quest to find a simple way to publish  data on free, open source map we found this one.
+It is a customized Leaflet map with a linked Google Sheets template (can also be done with CSV files) and GeoJSON data on GitHub.
 
 ![Preview](preview.jpg)
 
-## Live links (replaced with my own)
-- Leaflet Map https://BartWay.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Kpayn1Titf6QIX1g9DKET-KfPehoHFKClG39t2WTEb4/edit#gid=0
+## Live links
+- Leaflet Map https://https://toegankelijkamsterdam.github.io/kaart-info/
+- Google Sheets template https://docs.google.com/spreadsheets/d/10X8ZE-b7zWeRiE4YDTVF-cA71Poeq19h1Q0M7NhnMEs/edit#gid=0
 
-## Create your own
+## Created from tutorial
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 #### Geocode your address data with Google Sheets add-on
@@ -21,37 +22,6 @@ To geocode (find latitude and longitude coordinates), we recommend installing th
 - Get your own Google Sheets API Key to insert into `google-doc-url.js`
 
 See Steps G or H in the tutorial https://handsondataviz.org/leaflet-maps-with-google-sheets.html
-
-## Update your code for any pre-October 2020 maps before January 2021
-If you used our code to create a map prior to October 2020, you will need to update your version before January 26, 2021 for it to continue to work. Google announced that it will [migrate from Google Sheets API v3 to v4 in Jan 2021](https://developers.google.com/sheets/api/v3), and we updated our code to v1.2 on September 29th to address Google's changes.
-
-Four options to update your code:
-
-Option A: Use your existing code and pull your data from CSV files rather than a linked Google Sheet. This avoids the need for a Google Sheets API key, but does not take advantage of our other code updates.
-
-1. Go to your linked Google Sheet, and for each tab, *File > Download* in CSV format, and rename them this way: Options.csv, Points.csv, etc.
-2. Log into the web interface of your GitHub map repo.
-3. Create a new subfolder named `csv` in your GitHub repo, by selecting *Add file > Create a file* and typing in `csv/`. The forward slash indicates it is a folder, not a file.
-4. In your GitHub repo, upload each CSV file you created into this new `csv` subfolder.
-5. In your Github repo, open the `google-doc-url.js` file, scroll to the bottom of the page, and delete it.
-Now the code automatically searches for data in your CSV folder, rather than your Google Sheet. If desired, you can continue to use the Google Sheet to edit your map content and upload those changes to the CSV folder each time, or edit the CSV files directly.
-
-OR 
-
-Option B: If you understand (or are willing to learn about) [GitHub Desktop](https://handsondataviz.org/github-desktop-atom.html), use it to move copies of the newer code (index.html, scripts folder, style.css, etc.) into your repo via your local computer. In the `google-doc-url.js` file, copy and paste the Google Sheets API key that appears in the lower half of our code, but keep your own Google Sheets ID that appears in the upper-half of your code.
-
-OR
-
-Option C: If you originally "forked" a copy of our code, create a GitHub "pull request" to update your repo with our code revisions, including the Google Sheets API key. We recommend this option only if you understand (or are willing to learn about) GitHub pull requests, and can deal with resolving conflicts between your code and our updated code.
-Warning: Since this operation might overwrite some of your code, go to *Code > Download ZIP* to make a backup to your local computer.
-1. Log into the web interface of your GitHub storymap repository.
-2. Click *Pull requests* and click the green button for a *New pull request*.
-3. On the *Comparing Changes* page, use the menus to pull code *into* your repo *from* the original repo, named HandsOnDataViz/leaflet-maps-with-google-sheets. GitHub may warn that you cannot automatically merge the files, but proceed anyways.
-4. You may need to click the *Resolve conflicts* button on the next screen, which means you need to sort out which portions of your code to keep and which portions of our code to accept. Generally speaking, you should accept our updates for index.html, style.css, and most scripts.js, while keeping your own content for README.md, media, and geojson folder content. In the google-doc-url.js file, you should keep your own Google Sheet ID, but temporarily add our Google Sheets API key until you create your own. In GitHub, you can resolve code conflicts by deleting/keeping lines in specific files.
-
-OR
-
-Option D: Start over with a brand-new repo, and migrate your existing map content. Make a copy of our newer code by clicking the green 'Use template' button. Migrate any media folder or geodata folder content from your old repo to your new repo, by downloading to your local computer and uploading to GitHub. Reconnect your Google Sheet ID to the `google-doc-url.js` file in your new repo.
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
