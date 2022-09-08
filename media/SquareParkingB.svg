@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="480" height="480" viewBox="0 0 480 480" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 240.16 240.16)" id="8APWUVuj-VejdeQaOQ-2m"  >
+<path style="stroke: rgb(2,68,112); stroke-width: 20; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-230, -230)" d="M 0 110.03221 C 0 49.26310000000001 49.2631 0 110.03221 0 L 349.96778 0 L 349.96778 0 C 410.73689 0 459.99999 49.2631 459.99999 110.03221 L 459.99999 349.96778 L 459.99999 349.96778 C 459.99999 410.73689 410.73689 459.99999 349.96778 459.99999 L 110.03220999999999 459.99999 L 110.03220999999999 459.99999 C 49.263099999999994 459.99999 -1.4210854715202004e-14 410.73689 -1.4210854715202004e-14 349.96778 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 249.99 240)" id="CtZssor0_y_UP1zE9Ob8E"  >
+<path style="stroke: rgb(2,68,112); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(2,68,112); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-110.01, -140)" d="M 120.02 0 C 175.22 0 220.01999999999998 44.8 220.01999999999998 100 C 220.01999999999998 155.2 175.21999999999997 200 120.01999999999998 200 C 116.31372999999998 200 112.65434999999998 199.79804 109.05225999999999 199.40452 L 109.05225999999999 200 L 60.01999999999999 200 L 60.01999999999999 280 L -1.4210854715202004e-14 280 L -1.4210854715202004e-14 0 L 109.05225999999999 0 L 109.05225999999999 0.59548 C 112.65435 0.20196000000000003 116.31372999999999 0 120.01999999999998 0 z M 60.02 140 C 60.022330000000004 140 120.01767000000001 140 120.02000000000001 140 C 142.10000000000002 140 160.02 122.08 160.02 100 C 160.02 77.92 142.10000000000002 60 120.02000000000001 60 L 60.02000000000001 60 z" stroke-linecap="round" />
+</g>
+</svg>
