@@ -131,7 +131,8 @@ $(window).on('load', function() {
           .bindPopup("<h6>" + point['Name'] + '</h6><br>' +
           (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
           point['Location'] + '<br>' +           
-          point['Description']);
+          point['Description'] + '<hr>' +
+          point['Source']);
 
         if (layers !== undefined && layers.length !== 1) {
           marker.addTo(layers[point.Group]);
