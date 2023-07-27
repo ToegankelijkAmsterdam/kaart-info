@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Naam": "Noorderpark",
+        "Naam": "Noorderpark-100m",
         "Afstand": 100
       },
       "geometry": {
@@ -279,7 +279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Naam": "Noorderpark",
+        "Naam": "Noorderpark-400m",
         "Afstand": 400
       },
       "geometry": {
@@ -554,7 +554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Naam": "Noorderpark",
+        "Naam": "Noorderpark-800m",
         "Afstand": 800
       },
       "geometry": {
