@@ -36855,11 +36855,13 @@
       "properties": {
         "Halte": "Noorderpark",
         "Afstand": 800,
-        "Stadsdeel": "Noorderpark",
-        "Stadsdeelcode": "",
+        "Stadsdeel": "Noord",
+        "Stadsdeelcode": "N",
         "Inwoners (2021)": 0,
         "Oppervlak (ha)": 800,
-        "Dichtheid (inw/ha)": 0
+        "Dichtheid (inw/ha)": 0,
+        "Stadsdeelcijfer": 7,
+        "Lijn": 52
       },
       "geometry": {
         "type": "Polygon",
@@ -37129,6 +37131,26 @@
         ]
       },
       "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Halte": "Noorderpark",
+        "Lijn": 52,
+        "Stadsdeel": "Noord",
+        "Stadsdeelcijfer": 7,
+        "Stadsdeelcode": "N",
+        "Inwoners (2021)": 0,
+        "Afstand": 0
+      },
+      "geometry": {
+        "coordinates": [
+          4.918693873390936,
+          52.38893881663509
+        ],
+        "type": "Point"
+      },
+      "id": 10
     }
   ]
 }
