@@ -37714,6 +37714,48 @@
         ]
       },
       "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stadsdeel": "Noord",
+        "Stadsdeelcode": "N",
+        "Inwoners (2021)": 0,
+        "Oppervlak (ha)": "",
+        "Dichtheid (inw/ha)": "",
+        "Stadsdeelcijfer": 7,
+        "Halte": "Noorderpark",
+        "Afstand": 20,
+        "Lijn": 52
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4.918656543014038,
+              52.388910552543024
+            ],
+            [
+              4.918740882055118,
+              52.388910552543024
+            ],
+            [
+              4.918740882055118,
+              52.38896393087083
+            ],
+            [
+              4.918656543014038,
+              52.38896393087083
+            ],
+            [
+              4.918656543014038,
+              52.388910552543024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 13
     }
   ]
 }
