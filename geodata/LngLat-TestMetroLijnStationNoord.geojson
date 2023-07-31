@@ -4,17 +4,51 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "metro": 52
+        "metro": 52,
+        "metrostation": "Noord"
       },
       "geometry": {
-        "type": "LineString",
         "coordinates": [
           [
-            4.918656349182129,
-            52.38895867998249
+            [
+              4.932283094145333,
+              52.40198585813141
+            ],
+            [
+              4.932459586713378,
+              52.40198585813141
+            ],
+            [
+              4.932459586713378,
+              52.402091363947875
+            ],
+            [
+              4.932283094145333,
+              52.402091363947875
+            ],
+            [
+              4.932283094145333,
+              52.40198585813141
+            ]
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "metro": 52,
+        "metrostation": "Noord-Zuidlijn"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.918697343266871,
+            52.38892906024997
           ],
           [
             4.921274185180664,
@@ -33,45 +67,48 @@
             52.40069075194814
           ],
           [
-            4.932947158813477,
-            52.402287958007705
+            4.932813964238278,
+            52.40235471035895
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "rail-metro",
-        "metrostation": "Noord",
-        "metro": 52
+        "stroke-opacity": "",
+        "metro": 52,
+        "metrostation": "Noorderpark"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          4.9323570728302,
-          52.402039216602866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "rail-metro",
-        "metrostation": "Noorderpark",
-        "metro": 52
+          [
+            [
+              4.9186742144041204,
+              52.3889182958811
+            ],
+            [
+              4.91872133404118,
+              52.3889182958811
+            ],
+            [
+              4.91872133404118,
+              52.38894906590173
+            ],
+            [
+              4.9186742144041204,
+              52.38894906590173
+            ],
+            [
+              4.9186742144041204,
+              52.3889182958811
+            ]
+          ]
+        ],
+        "type": "LineString"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.918699264526367,
-          52.38895867998249
-        ]
-      }
+      "id": 4
     }
   ]
 }
